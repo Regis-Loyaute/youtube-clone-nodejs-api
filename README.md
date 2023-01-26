@@ -1,6 +1,6 @@
-# VueTube RESTful API - YouTube Clone
+RESTful API - YouTube Clone
 
-> VueTube is a YouTube clone built with nodejs, expressjs & mongodb.
+YouTube clone built with nodejs, expressjs & mongodb.
 
 ## Features
 
@@ -34,21 +34,14 @@
   - Change password
   - Upload channel avatar
 
-## Frontend Repo
-
-Frontend was developed with vue js and vuetify [VueTube](https://github.com/techreagan/vue-nodejs-youtube-clone)
 
 ## API Documentation
-
-Hosted on netlify: [Coming Soon]()
 
 Extensive and testing documentation with postman: [VueTube API](https://documenter.getpostman.com/view/9407876/SzYaVdtC?version=latest)
 
 ## Database Model
 
 Though the diagram uses sql data type, this diagram is to show you the various collections in the mongo database.
-
-![Screenshot](screenshots/vue_tube_ERD.jpg)
 
 ## Requirement
 
@@ -120,37 +113,3 @@ node seeder -d
 ```console
 node run dev
 ```
-
-## Screenshots
-
-> Delete the screenshot folder if you download this code (Screenshots folder is 3.14mb in size).
-
-### Sign In
-
-![Screenshot](screenshots/20%20-%20Sign%20in.jpg)
-
-### Sign Up
-
-![Screenshot](screenshots/21%20-%20Sign%20up.jpg)
-
-### Home Page
-
-![Screenshot](screenshots/1%20-%20Home.jpg)
-
-### Watch Page
-
-![Screenshot](screenshots/7%20-%20Watch.jpg)
-
-### Upload Thumbnail Modal
-
-![Screenshot](screenshots/16%20-%20Upload%20Thumbnail%20Modal.jpg)
-
-For more screenshots check out the vue frontend repo [VueTube](https://github.com/techreagan/vue-nodejs-youtube-clone)
-
-## License
-
-This project is licensed under the MIT License
-
-## Developed by Reagan Ekhameye (Tech Reagan)
-
-Reach me on twitter [@techreagan](https://www.twitter.com/techreagan)
